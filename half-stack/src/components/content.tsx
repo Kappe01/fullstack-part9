@@ -1,5 +1,5 @@
 import Part from './Part';
-import { CoursePart } from '../App';  // Adjust the path based on your project structure
+import { CoursePart } from '../App';
 
 interface CourseProps {
   courseParts: CoursePart[];
